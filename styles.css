@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: auto;
+}
+
+.container {
+    display: flex;
+    width: 90vw;
+}
+
+.panel {
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 45vw;
+    flex: 0.5;
+    margin: 10px;
+    border-radius: 30px;
+    color: white;
+    position: relative;
+    transition: flex 0.7s ease-in;
+}
+
+.panel h4 {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    margin: 0;
+    font-size: 30px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.panel.active {
+    flex: 5;
+}
+
+.panel.active h4 {
+    opacity: 1;
+}
+
+@media(max-width:600px) {
+    .panel {
+        height: 100vw;
+    }
+}

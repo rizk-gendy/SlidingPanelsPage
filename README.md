@@ -25,6 +25,8 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
 
 
 ## Project Files
+```bash
+
 ├── README.md - This file.
 ├── styles.css               # include the project styles   
 ├── index.html               # The project main Html file include all the project code (html,css,JS)

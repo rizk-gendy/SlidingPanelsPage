@@ -24,6 +24,23 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
  beautiful sliding effect you can use on your gallery . 
 
 
+## Languages Used in the Project :
+
+1- html 
+2- CSS
+3- JavaScript and ES6 
+
+
+
+
+
+
+## If you have any problem with code please contact me :
+
+- Linkedin Account : https://www.linkedin.com/in/rizk-gendy-49a095210/
+
+
+
 ## Project Files
 ```bash
 
@@ -40,20 +57,6 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
     
   
 
-## Languages Used in the Project :
-
-1- html 
-2- CSS
-3- JavaScript and ES6 
-
-
-
-
-
-
-## If you have any problem with code please contact me :
-
-- Linkedin Account : https://www.linkedin.com/in/rizk-gendy-49a095210/
 
 
 

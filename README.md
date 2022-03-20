@@ -33,7 +33,6 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
 ├── images                   # all app images
 ├── script.js                # include the project javascript code
 
-```bash     
     
     
     

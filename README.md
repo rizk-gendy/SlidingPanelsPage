@@ -52,11 +52,3 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
 
     
     
-    
-    
-    
-  
-
-
-
-

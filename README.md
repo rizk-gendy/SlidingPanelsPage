@@ -1,5 +1,5 @@
 ## Project Title :
-SlidingPanelsPage
+Sliding Panels Page
 
 ## Project Link :
 https://rizk-gendy.github.io/SlidingPanelsPage/

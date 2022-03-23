@@ -26,7 +26,7 @@ https://rizk-gendy.github.io/SlidingPanelsPage/
 
 ## Languages Used in the Project :
 
-1- html 
+1- htm5
 2- CSS
 3- JavaScript and ES6 
 
